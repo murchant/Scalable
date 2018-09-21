@@ -1,0 +1,15 @@
+AWS Meta-data:
+
+c1.medium
+i-0d75110a6aae34380
+ami-00035f41c82244dab
+ip-172-30-1-62.eu-west-1.compute.internal
+
+John bench mark:
+
+Benchmarking: argon2 [Blake2 SSSE3]... (2xOMP) DONE
+Speed for cost 1 (t) of 3, cost 2 (m) of 4096, cost 3 (p) of 1, cost 4 (type [0:Argon2d 1:Argon2i]) of 0 and 1
+Warning: "Many salts" test limited: 5/256
+Many salts:	135 c/s real, 67.7 c/s virtual
+Only one salt:	136 c/s real, 68.3 c/s virtual
+

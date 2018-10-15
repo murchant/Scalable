@@ -3,5 +3,5 @@ modes=(0,1,3,6,7)
 
 for i in "${algoNumbers[@]}"
 do
-  hashcat -m "$i" -a 1 -o cracked.txt sortedHashes.txt rockFourChar.txt rockFourChar.txt -O
+  hashcat -m "$i" -a 1 -o cracked.txt sortedHashes.txt rockFourChar.txt rockFourChar.txt -O -D 2 -w 3
 done

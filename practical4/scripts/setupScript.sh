@@ -1,3 +1,4 @@
+sudo apt-get install linux-headers-`uname -r`
 sudo apt update
 sudo apt upgrade -y
 sudo apt-get install build-essential -y

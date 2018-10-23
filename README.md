@@ -1,6 +1,6 @@
-# CS7NS1/Scalable Computing
+# CS7NS1 / Scalable Computing
 
-## Repository for scripts created to be used in conjunction with Hashcat, for cracking password hashes of various different algorithms.
+## Repository for scripts created to be used in conjunction with Hashcat, for cracking password hashes of various different hashing algorithms.
 
 ### Practical 4
 
